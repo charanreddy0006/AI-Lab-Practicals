@@ -21,11 +21,7 @@ AI-Lab-Practicals/
 │   ├── 11_Logic_Representation_Inference.ipynb
 │   ├── 12_Machine_Learning_Algorithms.ipynb
 │   └── README.md
-│
-├── Lab_pdfs/
-│   └── AI Lab Practical PDF files
-│
-└── README.md
+
 ```
 
 ## 🛠️ Technologies Used
