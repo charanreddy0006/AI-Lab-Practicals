@@ -1,0 +1,18 @@
+{
+  "name": "AI Lab Practicals",
+  "course_code": "01AI0511",
+  "notebooks": [
+    "01_Intelligent_Agent.ipynb",
+    "02_Uninformed_Search_BFS_DFS_UCS.ipynb",
+    "03_A_Star_Heuristic_Search.ipynb",
+    "04_Minimax_Alpha_Beta_TicTacToe.ipynb",
+    "05_Rule_Based_Expert_System.ipynb",
+    "06_Constraint_Satisfaction_CSP.ipynb",
+    "07_Bayesian_Network.ipynb",
+    "08_Mini_AI_Text_Classification.ipynb",
+    "09_STRIPS_Goal_Stack_Planning.ipynb",
+    "10_Value_Iteration_Gridworld.ipynb",
+    "11_Logic_Representation_Inference.ipynb",
+    "12_Machine_Learning_Algorithms.ipynb"
+  ]
+}
